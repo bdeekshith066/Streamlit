@@ -1,4 +1,5 @@
 //For setting background
+// Text decoration
 //For widening the page 
 //Pie chart code
   
@@ -26,8 +27,8 @@ def set_bg_hack_url():
 
 // Text decoration
 st.markdown("##### Get ready to dive into the excitement of the hottest fests on campus! ")
- st.markdown("####  Your virtual BMSCE companion, offering insights into branch insiders and placement. From <u>college life</u> to hostel info, <u>cutoffs</u>, clubs, and fests, we have got you covered. Say goodbye to endless searches for <u>notes</u> and previous year <u>question papers</u> — we have it all here.", unsafe_allow_html=True)
-
+st.markdown("####  Your virtual BMSCE companion, offering insights into branch insiders and placement. From <u>college life</u> to hostel info, <u>cutoffs</u>, clubs, and fests, we have got you covered. Say goodbye to endless searches for <u>notes</u> and previous year <u>question papers</u> — we have it all here.", unsafe_allow_html=True)
+st.markdown("<span style='font-size: larger;'>About BMSCE🏫</span> - Discover campus details, hostel details, college life, transportation, student insights, cutoff and admission", unsafe_allow_html=True)
 
 
 
