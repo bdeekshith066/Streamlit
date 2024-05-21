@@ -1,4 +1,5 @@
 //image animations 
+import streamlit.components.v1 as components
 components.html(
     """
 <!DOCTYPE html>
