@@ -29,7 +29,7 @@ def set_bg_hack_url():
 st.markdown("##### Get ready to dive into the excitement of the hottest fests on campus! ")
 st.markdown("####  Your virtual BMSCE companion, offering insights into branch insiders and placement. From <u>college life</u> to hostel info, <u>cutoffs</u>, clubs, and fests, we have got you covered. Say goodbye to endless searches for <u>notes</u> and previous year <u>question papers</u> — we have it all here.", unsafe_allow_html=True)
 st.markdown("<span style='font-size: larger;'>About BMSCE🏫</span> - Discover campus details, hostel details, college life, transportation, student insights, cutoff and admission", unsafe_allow_html=True)
-
+st.markdown('<div style="text-align: center;font-size:300%;margin-bottom: 40px"><b>PDF with Notes Section 📝</b></div>',unsafe_allow_html=True)
 
 
 //For widening the page 
